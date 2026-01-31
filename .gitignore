@@ -1,0 +1,11 @@
+# Secrets (NEVER UPLOAD THESE)
+.env
+
+# Big Data and Database folders
+chroma_db/
+data/
+*.json
+
+# Python temporary files
+__pycache__/
+*.pyc
